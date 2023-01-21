@@ -10,5 +10,4 @@ for i in a:
     conjunto1.discard(i)
     conjunto2.discard(i)
 # Hallamos la diferencia simétrica de los 2 conjuntos
-print('La diferencia simétrica de los 2 conjuntos es:',
-      (conjunto1 | conjunto2)
+print('La diferencia simétrica de los 2 conjuntos es:',(conjunto1 | conjunto2))
